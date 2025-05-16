@@ -1,0 +1,34 @@
+Student {
+    background-color: #aabbcc;
+    width: 100%;
+}
+
+Sno {
+    display: block;
+    color: GREEN;
+    font-size: 25pt;
+}
+
+Sname {
+    display: block;
+    color: BLACK;
+    font-size: 20pt;
+}
+
+Dob {
+    display: block;
+    color: BLUE;
+    font-size: 15pt;
+}
+
+Address {
+    display: block;
+    color: BLUE;
+    font-size: 15pt;
+}
+
+m1, m2, m3 {
+    display: block;
+    color: BLUE;
+    font-size: 15pt;
+}

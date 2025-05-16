@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+<students>
+    <student>
+        <sno>801041</sno>
+        <sname>S.Soundarapandian</sname>
+        <dob>05/08/1991</dob>
+        <address>Neyveli</address>
+        <m1>80</m1>
+        <m2>90</m2>
+        <m3>95</m3>
+    </student>
+    <student>
+        <sno>801049</sno>
+        <sname>R.Vadivelan</sname>
+        <dob>22/07/1990</dob>
+        <address>Pondicherry</address>
+        <m1>90</m1>
+        <m2>95</m2>
+        <m3>80</m3>
+    </student>
+    <student>
+        <sno>801037</sno>
+        <sname>R.Satheesh</sname>
+        <dob>21/01/1991</dob>
+        <address>Kanyakumari</address>
+        <m1>80</m1>
+        <m2>90</m2>
+        <m3>95</m3>
+    </student>
+</students>
